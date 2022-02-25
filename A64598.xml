@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Urania A funeral elegy, on the death of our gracious Queen of ever blessed memory.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64598</idno>
+            <idno type="STC">Wing U124A</idno>
+            <idno type="STC">ESTC R218884</idno>
+            <idno type="EEBO-CITATION">99830438</idno>
+            <idno type="PROQUEST">99830438</idno>
+            <idno type="VID">34889</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34889)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2022:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Urania A funeral elegy, on the death of our gracious Queen of ever blessed memory.</title>
+               </titleStmt>
+               <extent>[2], 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Graves, over against Will's Coffee-house in Covent-Garden: and sold by John Whitlock near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Gathered in 2's.</note>
+                  <note>Copy has print show-through affecting text.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34889:1"/>
+            <!-- PDF PAGE 79 -->
+            <p>URANIA.</p>
+            <p>A Funeral Elegy<g ref="char:punc">▪</g> ON THE DEATH OF OUR Gracious QUEEN of ever Bleſſed Memory.</p>
+            <q>
+               <l>Give Sorrow Words, the Grief that does not ſpeak</l>
+               <l>Whiſpers the o're-charg'd Heart, and bids it break.</l>
+               <bibl>
+                  <hi>Shakeſpear.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Graves,</hi> over againſt <hi>Will</hi>'s <hi>Coffee-houſe</hi> in <hi>Covent-Garden:</hi> And Sold by <hi>John Whitllck</hi> near Stationers-Hall. 1695.</p>
+            <pb facs="tcp:34889:2"/>
+            <!-- PDF PAGE 80 -->
+            <pb facs="tcp:34889:2"/>
+            <!-- PDF PAGE 80 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:34889:3"/>
+            <!-- PDF PAGE 81 -->
+            <pb n="1" facs="tcp:34889:3"/>
+            <!-- PDF PAGE 81 -->
+            <head>A Funeral Elegy.</head>
+            <lg>
+               <l>DEath knows no Forms, Diſtinction or Degree,</l>
+               <l>But claims an Univerſal Manarchy:</l>
+               <l>And when He Strickes, as ſurely falls to ground</l>
+               <l>The Hand that's Scepter'd and the Head that's Crown'd;</l>
+               <l>As the poor VVretch whoſe life is doom'd to know</l>
+               <l>No State, but that of Slavery and VVoe,</l>
+            </lg>
+            <lg>
+               <l>But wonder not, Ye <hi>Princes,</hi> at your Fate,</l>
+               <l>VVho for a time ſo Powrful are, and Great;</l>
+               <l>VVhen the <hi>moſt Glorious</hi> Prince, cou'd no where have<g ref="char:punc">▪</g>
+               </l>
+               <l>A Place to lay his Head, but in the Grave,</l>
+               <pb n="2" facs="tcp:34889:4"/>
+               <!-- PDF PAGE 82 -->
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> yet <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>R<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ew her Sorrows for the Dead in Duſt:</l>
+               <l>Fr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m the cold Tomb new Tribute does ariſe</l>
+               <l>Of Groans, of bleeding Breaſts and ſtreaming Eyes.</l>
+               <l>Is She not worthy, <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion,</hi> of thy Tears?</l>
+               <l>Of all the needfull Pomp thy Sorrow wears?</l>
+               <l>Was She not all thy Joy, thy Happineſs,</l>
+               <l>And darling Hope of a new Age of Bliſs?</l>
+               <l>Did not her wonted Health, and Vigour promiſe This?</l>
+               <l>O yes! She was—It Did—</l>
+               <l>Mourn then her Unexpected, Sad Deceaſe</l>
+               <l>VVhich rob'd Thee of ſuch Joys, ſuch hopes as Theſe<g ref="char:punc">▪</g>
+               </l>
+               <l>VVhile I Preſent Her <hi>[Injur'd]</hi> to thy View.</l>
+               <l>Yet ſhew enough to make thee Bleed anew.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nature</hi> and <hi>Grace</hi> here exquiſitely joyn'd</l>
+               <l>To Finiſh, without Art, a <hi>Form</hi> and <hi>Mind,</hi>
+               </l>
+               <l>The beſt created <hi>Lovelineſs,</hi> a Charm</l>
+               <l>All Hearts to Conquer, and all Hands diſarm;</l>
+               <pb n="3" facs="tcp:34889:4"/>
+               <!-- PDF PAGE 82 -->
+               <l>While innate <hi>Sweetneſs</hi> did her Soul refine,</l>
+               <l>And <hi>Vertue</hi> ſtamp'd on it a laſting Shine.</l>
+               <l>The <hi>Grand Exempler</hi> to our Sex, Alone</l>
+               <l>Th' imitable <hi>Standard</hi> of her own:</l>
+               <l>As far excelling All in every Grace,</l>
+               <l>As ſhe in Dignity excell'd the Race.</l>
+               <l>
+                  <hi>But She's no more, the Heav'n-born Soul is fled</hi>
+               </l>
+               <l>
+                  <hi>To bliſs, and left the beautious Body dead.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Plac'd High as the bright <hi>Ruler</hi> of our Days</l>
+               <l>Yet kind and Condeſcending as his <hi>Rays.</hi>
+               </l>
+               <l>Gentle to All, who new <hi>Obedience</hi> took</l>
+               <l>That kindled from the Kindneſs of her Look.</l>
+               <l>Eaſie and Affable to that Degree,</l>
+               <l>As ſome thought unbecoming Majeſty;</l>
+               <l>But ſure thoſe <hi>Criticks</hi> ne're deſerv'd the grace,</l>
+               <l>VVho cou'd to ſee Her Smile, Uprai'd the Face.</l>
+               <l>They who <hi>Humility</hi> in Princes blame,</l>
+               <l>Forget the Vertue there may change his name,</l>
+               <l>VVhere Generoſity and That's the ſame.</l>
+               <pb n="4" facs="tcp:34889:5"/>
+               <!-- PDF PAGE 83 -->
+               <l>For what in Others does a <hi>Debt</hi> remain,</l>
+               <l>Becomes a <hi>Favour,</hi> when beyond our Claim.</l>
+               <l>
+                  <hi>But She's no more; Rais'd by Humility</hi>
+               </l>
+               <l>
+                  <hi>Above the proſpect of the proudeſt Eye.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Her <hi>Piety</hi>—but O my feeble Pen</l>
+               <l>Starts back, and fears to touch the Awful Theam.</l>
+               <l>VVhat muſt I do?—O now that I cou'd VVrite,</l>
+               <l>To rouſe the Britiſh Eagle to a Flight,</l>
+               <l>With her Unerring VVing,</l>
+               <l>And ſtrike the Heavenly String!</l>
+               <l>But on my Muſe, and to the VVorld impart</l>
+               <l>How Good She was, or how Unskill'd thou art.</l>
+               <l>Devotion was her Conſtant True Delight,</l>
+               <l>The Lamp was ever burning, ever bright.</l>
+               <l>Kept up a daily Intercourſe with Heav'n,</l>
+               <l>VVhich ſmooth'd the way of Life, and held her Even.</l>
+               <l>No fond Enthuſiaſtick Tranſports joyn'd</l>
+               <l>To mix with the chaſt Ardours of her Mind</l>
+               <l>And taint the Sweet aſcending Sacrifice,</l>
+               <l>The Heart did burn, but flam'd not in her Eyes.</l>
+               <pb n="5" facs="tcp:34889:5"/>
+               <!-- PDF PAGE 83 -->
+               <l>Sure if in Mortal ever did appear,</l>
+               <l>The very Beauty of true Holineſs, 'twas Here.</l>
+               <l>VVhich thus reflected on the outward Shrine,</l>
+               <l>Declar'd the Treaſure, it contain'd, Divine.</l>
+               <l>
+                  <hi>Rome</hi>'s Temples <hi>then</hi> wou'd have Embal'd thy Fame,</l>
+               <l>The Prayers to their <hi>Virgin</hi> had come lame,</l>
+               <l>VVith Thought of <hi>Thee,</hi> when they Invok'd <hi>her</hi> name.</l>
+               <l>
+                  <hi>But She's no more, Rewarded Piety</hi>
+               </l>
+               <l>
+                  <hi>Confirms Her now the Saint Sh' appear'd to be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVho can her wondrows <hi>Charity</hi> expreſs?</l>
+               <l>VVhich yet the <hi>warmth</hi> of Thouſands muſt Confeſs?</l>
+               <l>Bleſt Queen! 'twas thy Contrivance how to ſpare,</l>
+               <l>That Others might the well-plac'd bounty ſhare,</l>
+               <l>And the Delight it gave Thee, Crowns thy Character.</l>
+               <l>
+                  <hi>But She's no more, and ſure had little need</hi>
+               </l>
+               <l>
+                  <hi>Of Charity, who had no ſins to hide.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How in our Monarch's Abſence did She <hi>Reign!</hi>
+               </l>
+               <l>How well the VVeight of Government ſuſtain!</l>
+               <pb n="6" facs="tcp:34889:6"/>
+               <!-- PDF PAGE 84 -->
+               <l>Of ſo Correct a Judgment in that Art;</l>
+               <l>Her Conſtancy became a <hi>neceſſary</hi> part.</l>
+               <l>Thy <hi>Salick</hi> Law no longer, <hi>Gallia,</hi> boaſt,</l>
+               <l>Howeret he Sexe's Charter there be loſt,</l>
+               <l>A VVoman here cou'd Govern to thy Coſt.</l>
+               <l>The <hi>Lillies</hi> trembled at the <hi>Lyons</hi> Roar,</l>
+               <l>VVhile flaming Forts juſtly confeſt the Pow'r</l>
+               <l>Of that moſt Lib'ral Art They taught the VVorld before</l>
+            </lg>
+            <lg>
+               <l>The Dear <hi>Palladium</hi> of her Country's <hi>Peace,</hi>
+               </l>
+               <l>VVhoſe Heav'nly meekneſs conquer'd the Exceſs</l>
+               <l>Of warring Minds, and forc'd 'em to relent;</l>
+               <l>At leaſt in loving Her all Parties did Conſent.</l>
+               <l>So mild, ſo ſweet a Temper cou'd not fail</l>
+               <l>O're the moſt ſtubborn Natures to prevail:</l>
+               <l>(How cou'd the Softer Sex then ever Rail?)</l>
+               <l>
+                  <hi>Great is thy Victory, O Grave, wherein</hi>
+               </l>
+               <l>
+                  <hi>Lie the dear, bleſt Remains of ſuch a Queen;</hi>
+               </l>
+            </lg>
+            <pb n="7" facs="tcp:34889:6"/>
+            <!-- PDF PAGE 84 -->
+            <lg>
+               <l>VVho as She Liv'd, calmly reſign'd her breath,</l>
+               <l>Appearing pleas'd even in the Arms of Death;</l>
+               <l>Smil'd at the Stroke, which had for her no Sting,</l>
+               <l>Felt by All elſe, but chiefly by the King;</l>
+               <l>The Pious King, for whom Alone we live,</l>
+               <l>The King who only can our Loſs Retreive.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Here Reſt in Peace, and ſweeteſt Slumbers take,</hi>
+               </l>
+               <l>
+                  <hi>Till the laſt Joyful Sound thy Duſt awake,</hi>
+               </l>
+               <l>
+                  <hi>And raiſe it to a Crown Hands cannot make;</hi>
+               </l>
+               <l>
+                  <hi>While we are Orphans doubly Thus become.</hi>
+               </l>
+               <l>
+                  <hi>And envy the Embraces of thy Tomb.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS:</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
